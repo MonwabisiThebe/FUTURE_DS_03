@@ -1,0 +1,3 @@
+data_backup/
+*.csv
+.ipynb_checkpoints/
